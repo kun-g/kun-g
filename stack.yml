@@ -1,0 +1,31 @@
+- name: Python
+  logo: python
+  url: https://www.python.org/
+  color: 3C78A9
+  logoColor: FFFFFF
+  projects:
+      - url: https://github.com/kun-g/wxbase
+        wip: true
+- name: JavaScript
+  logo: javascript
+  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  color: F1E05A
+  logoColor: FFFFFF
+  projects:
+    - https://github.com/kun-g/translators
+- name: Node.js
+  logo: node.js
+  url: https://nodejs.org/en/
+  color: 47d147
+  logoColor: FFFFFF
+  projects:
+    - https://github.com/kun-g/ever-dungeon
+    - url: https://github.com/kun-g/cheer
+      wip: false
+- name: CPP
+  logo: CPP
+  url: https://isocpp.org/
+  color: ff751a
+  logoColor: FFFFFF
+  projects:
+    - https://github.com/kun-g/client
