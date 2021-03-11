@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://img.shields.io/badge/dynamic/json?label=%E5%BE%AE%E5%8D%9A%E5%85%B3%E6%B3%A8&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D3D3150300837&labelColor=e71f19&color=040000&logo=sina-weibo&longCache=true)](https://weibo.com/u/3150300837)
+[![](https://img.shields.io/badge/dynamic/json?label=%E5%BE%AE%E5%8D%9A%E5%85%B3%E6%B3%A8&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey=3150300837&labelColor=e71f19&color=040000&logo=sina-weibo&longCache=true)](https://weibo.com/u/3150300837)
 
 <!--
 **kun-g/kun-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
