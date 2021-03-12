@@ -6,6 +6,8 @@
   projects:
       - url: https://github.com/kun-g/wxbase
         wip: true
+      - https://github.com/kun-g/Scraping-Github-trending
+        wip: true
 - name: JavaScript
   logo: javascript
   url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
