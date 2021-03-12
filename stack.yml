@@ -22,8 +22,8 @@
     - https://github.com/kun-g/ever-dungeon
     - url: https://github.com/kun-g/cheer
       wip: false
-- name: CPP
-  logo: CPP
+- name: C++
+  logo: C++
   url: https://isocpp.org/
   color: ff751a
   logoColor: FFFFFF
