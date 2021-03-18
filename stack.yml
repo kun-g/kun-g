@@ -3,11 +3,11 @@
   logoColor: FFFFFF
   name: JavaScript
   projects:
-  - url: https://api.github.com/repos/kun-g/cheer
+  - url: https://github.com/kun-g/cheer
     wip: false
-  - url: https://api.github.com/repos/kun-g/ever-dungeon
+  - url: https://github.com/kun-g/ever-dungeon
     wip: false
-  - url: https://api.github.com/repos/kun-g/translators
+  - url: https://github.com/kun-g/translators
     wip: false
   url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - color: ff751a
@@ -15,7 +15,7 @@
   logoColor: FFFFFF
   name: C++
   projects:
-  - url: https://api.github.com/repos/kun-g/client
+  - url: https://github.com/kun-g/client
     wip: false
   url: https://isocpp.org/
 - color: fa7343
@@ -23,7 +23,7 @@
   logoColor: FFFFFF
   name: Swift
   projects:
-  - url: https://api.github.com/repos/kun-g/Find-Your-Strength
+  - url: https://github.com/kun-g/Find-Your-Strength
     wip: false
   url: https://swift.org/
 - color: 3C78A9
@@ -31,10 +31,12 @@
   logoColor: FFFFFF
   name: Python
   projects:
-  - url: https://api.github.com/repos/kun-g/Scraping-Github-trending
+  - url: https://github.com/kun-g/kun-g
     wip: true
-  - url: https://api.github.com/repos/kun-g/weather
+  - url: https://github.com/kun-g/Scraping-Github-trending
     wip: true
-  - url: https://api.github.com/repos/kun-g/wxbase
+  - url: https://github.com/kun-g/weather
+    wip: true
+  - url: https://github.com/kun-g/wxbase
     wip: true
   url: https://www.python.org/

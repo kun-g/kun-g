@@ -41,7 +41,6 @@ ignores = [
         "TrinGame/server",
 
         "kun-g/csapp-reading-notes", # No Lang
-        "kun-g/kun-g", # No Lang
         ]
 
 languages = {
@@ -69,10 +68,10 @@ def build_stack():
         lang.sort(key=lambda e:e[1], reverse=True)
         lang = lang[0][0]
         if lang not in languages:
-            print(f"Missing language {lang}: {repo.url}")
+            print(f"Missing language {lang}: {repo.html_url}")
             continue
         working = (datetime.now() - repo.updated_at).days < 30
-        repos.append({ 'url': repo.url, 'wip': working, 'lang': lang })
+        repos.append({ 'url': repo.html_url, 'wip': working, 'lang': lang })
     groups = group_by(repos, 'lang')
     stack = []
     for lang in groups:
