@@ -4,9 +4,11 @@
   color: 3C78A9
   logoColor: FFFFFF
   projects:
-      - url: https://github.com/kun-g/wxbase
+      -
+        url: https://github.com/kun-g/wxbase
         wip: true
-      - https://github.com/kun-g/Scraping-Github-trending
+      - 
+        url: https://github.com/kun-g/Scraping-Github-trending
         wip: true
 - name: JavaScript
   logo: javascript
@@ -23,7 +25,7 @@
   projects:
     - https://github.com/kun-g/ever-dungeon
     - url: https://github.com/kun-g/cheer
-      wip: false
+    - wip: false
 - name: C++
   logo: C++
   url: https://isocpp.org/
