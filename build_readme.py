@@ -60,10 +60,6 @@ def group_by(data, key):
         res[item[key]].append(item)
     return res
 
-with open('./stack.yml', 'r') as f:
-    config = load(f, Loader=Loader)
-    print(config)
-
 def build_stack():
     repos = []
     for repo in g.get_user().get_repos():
