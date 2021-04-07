@@ -1,3 +1,19 @@
+- color: 3C78A9
+  logo: python
+  logoColor: FFFFFF
+  name: Python
+  projects:
+  - url: https://github.com/kun-g/baidu_search
+    wip: true
+  - url: https://github.com/kun-g/kun-g
+    wip: true
+  - url: https://github.com/kun-g/Scraping-Github-trending
+    wip: true
+  - url: https://github.com/kun-g/weather
+    wip: true
+  - url: https://github.com/kun-g/wxbase
+    wip: true
+  url: https://www.python.org/
 - color: F1E05A
   logo: javascript
   logoColor: FFFFFF
@@ -26,17 +42,3 @@
   - url: https://github.com/kun-g/Find-Your-Strength
     wip: false
   url: https://swift.org/
-- color: 3C78A9
-  logo: python
-  logoColor: FFFFFF
-  name: Python
-  projects:
-  - url: https://github.com/kun-g/kun-g
-    wip: true
-  - url: https://github.com/kun-g/Scraping-Github-trending
-    wip: true
-  - url: https://github.com/kun-g/weather
-    wip: true
-  - url: https://github.com/kun-g/wxbase
-    wip: true
-  url: https://www.python.org/
