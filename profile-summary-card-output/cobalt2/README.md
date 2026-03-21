@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/kun-g/kun-g/main/profile-summary-card-output/cobalt2/4-productive-time.svg)
+```
+
+    
